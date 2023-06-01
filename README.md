@@ -1,2 +1,2 @@
 # DataScienceTools
-It's repository by Examn the DataScienceTools
+DataScienceTools test repository
