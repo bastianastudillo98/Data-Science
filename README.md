@@ -34,4 +34,3 @@ The best way to estimate the total launch cost is to predict the successful land
 - Smaller payloads have a higher landing success rate than larger and heavier payloads.
 - The launch site with the highest success rate is the KSC LC-39A.
 - spaceX's success rate increases over time.  
-![image](https://github.com/bastianastudillo98/IBM-Data_Science-SpaceX/assets/131790631/c12501e4-4fbc-4ca3-b845-9bd0bfd65444)
